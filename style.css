@@ -1,0 +1,13 @@
+.couple-bg {
+  background-image: url(https://www.christianmingle.com/RegContent/CSS/images/DancingInPoppies.jpg) !important;
+  background-size: cover;
+}
+
+.container-fluid{
+  float: left;
+  width: 100%;
+}
+
+.main-logo{
+  background-image: url(https://www.christianmingle.com/RegContent/CSS/images/logo-cm.png);
+}
